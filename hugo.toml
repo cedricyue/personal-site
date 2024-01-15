@@ -1,0 +1,4 @@
+baseURL = 'cedricyue.com'
+languageCode = 'en-us'
+title = 'Cedric Website'
+theme = 'ananke'
